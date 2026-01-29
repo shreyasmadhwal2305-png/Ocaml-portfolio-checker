@@ -17,5 +17,5 @@ A beginner-friendly OCaml CLI (Command Line Interface) program that:
 Load the file in utop:
 
 ```ocaml
-#use "portfolio_checker.ml";;
+#use "Portfolio_checker_ocaml.ml";;
 run_portfolio_checker ();;
